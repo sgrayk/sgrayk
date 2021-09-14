@@ -3,10 +3,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgrayk&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" height="180em"/>
 </p>
 
-<!-- #### Skills
-[![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#) [![Android Badge](https://img.shields.io/badge/-Android-3C8749?style=for-the-badge&labelColor=black&logo=android&logoColor=3C8749)](#)[![Firebase Badge](https://img.shields.io/badge/-Firebase-e69514?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa500)](#)
-[![ReactNative Badge](https://img.shields.io/badge/-ReactNative-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-#### Coding Stats - Last 7 Days -->
+#### Skills
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)C# 	![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+<!-- #### Coding Stats - Last 7 Days -->
 
 <!--
 **sgrayk/sgrayk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
